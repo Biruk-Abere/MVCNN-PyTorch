@@ -9,7 +9,7 @@ __all__ = ['MVCNN', 'mvcnn']
 model_urls = {
     'alexnet': 'https://download.pytorch.org/models/alexnet-owt-4df8aa71.pth',
 }
-
+# This is MVCNN
 
 class MVCNN(nn.Module):
 
